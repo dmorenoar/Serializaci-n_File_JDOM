@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<videojuegos>
+	<videojuego puntuacion="10">
+			<titulo>The legend of Zelda</titulo>
+			<tipo>RPG</tipo>
+			<anyo>1999</anyo>
+	<videojuego>
+	<videojuego puntuacion="8">
+			<titulo>Pikmin</titulo>
+			<tipo>Estrategia</tipo>
+			<anyo>2003</anyo>
+	<videojuego>
+	<videojuego puntuacion="9">
+			<titulo>Alex Kid</titulo>
+			<tipo>Plataformas</tipo>
+			<anyo>1991</anyo>
+	<videojuego>
+</videojuegos>
+
