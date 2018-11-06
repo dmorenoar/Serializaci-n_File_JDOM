@@ -62,6 +62,8 @@ public class MainApp {
         }
 
         
+        
+        
         /*LECTURA CON SERIALIZACIÓN*/
         ArrayList<Videojuego> videojuegos = new ArrayList();
         Videojuego v1 = new Videojuego("Pikmin", "Estrategia", 1999);
